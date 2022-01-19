@@ -1,0 +1,4 @@
+
+
+apikey = 'YOURAPIKEY'
+secret = 'YOURAPISECRET'
